@@ -20,6 +20,9 @@
 
 </div>
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=debady&theme=tokyonight)
+
+
 ---
 
 ## About Me
@@ -32,6 +35,11 @@ Full-stack developer passionate about building innovative digital solutions that
 - Building tools for healthcare and digital transformation
 
 ---
+
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=debady&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debady&layout=compact&theme=tokyonight)
+
 
 ## Tech Stack
 
@@ -98,16 +106,103 @@ Interactive portfolio showcasing multimedia projects
 **Tech:** React, Three.js, TailwindCSS
 
 ---
+---
 
-## GitHub Stats
+## GitHub Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Debady&theme=tokyo-night&hide_border=true)](https://github.com/Debady)
+
+---
+---
+
+## Professional Journey
+
+**Founder & CEO** @ EXPLORA STUDIO  
+`2020 - Present`
+- Leading tech & creative agency
+- 20+ successful projects delivered
+- Focus on African digital transformation
+
+**Full-Stack Developer** @ Previous Company  
+`2018 - 2020`
+- Developed healthcare solutions
+- Built scalable web applications
+
+---
+![GitHub Streak](https://streak-stats.demolab.com/?user=TON_USERNAME&theme=tokyonight)
+
+---
+
+## Latest Articles & Insights
+
+ **Recent Posts**
+- [Building Scalable Apps in Africa](link) - Dec 2024
+- [AI Integration for Healthcare](link) - Nov 2024
+- [React Native Performance Tips](link) - Oct 2024
+
+ [Read more on my blog](your-blog-link)
+---
+---
+
+## Technologies I Love
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" />
+</p>
+
+---
+---
+
+## GitHub Trophies
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debady&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debady&layout=compact&theme=dark&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=debady&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/debady)
 
 </div>
+
+---
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=debady&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+---
+
+
+
+
+## Technical Skills
+
+**Frontend Development**
+![Progress](https://progress-bar.dev/95/?title=React&width=300&color=61dafb)
+![Progress](https://progress-bar.dev/90/?title=Next.js&width=300&color=000000)
+![Progress](https://progress-bar.dev/85/?title=TailwindCSS&width=300&color=38bdf8)
+
+**Backend Development**
+![Progress](https://progress-bar.dev/90/?title=Node.js&width=300&color=339933)
+![Progress](https://progress-bar.dev/85/?title=Express.js&width=300&color=000000)
+![Progress](https://progress-bar.dev/80/?title=API_Design&width=300&color=009688)
+
+**Mobile Development**
+![Progress](https://progress-bar.dev/88/?title=React_Native&width=300&color=61dafb)
+
+**Design & Creative**
+![Progress](https://progress-bar.dev/92/?title=Figma&width=300&color=f24e1e)
+![Progress](https://progress-bar.dev/85/?title=Adobe_Suite&width=300&color=ff0000)
+
+---
 
 ---
 
